@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sarumi117720.github.io/The-wanderer/</id>
-    <title>The Wandering</title>
-    <updated>2020-07-16T20:36:47.692Z</updated>
+    <title>The Wanderer</title>
+    <updated>2020-07-16T20:37:19.108Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://sarumi117720.github.io/The-wanderer/"/>
     <link rel="self" href="https://sarumi117720.github.io/The-wanderer/atom.xml"/>
     <subtitle>如果Lofter挂了的话，暂时在这里避难。有新平台的话会搬家。</subtitle>
     <logo>https://sarumi117720.github.io/The-wanderer/images/avatar.png</logo>
     <icon>https://sarumi117720.github.io/The-wanderer/favicon.ico</icon>
-    <rights>All rights reserved 2020, The Wandering</rights>
+    <rights>All rights reserved 2020, The Wanderer</rights>
     <entry>
         <title type="html"><![CDATA[The Wandering]]></title>
         <id>https://sarumi117720.github.io/The-wanderer/post/the-wandering/</id>
